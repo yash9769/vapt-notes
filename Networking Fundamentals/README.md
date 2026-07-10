@@ -9,6 +9,10 @@ This folder contains exam-style notes for quick revision, interviews, and real-w
 4. [04-tcp-vs-udp.md](04-tcp-vs-udp.md)
 5. [05-tcp-three-way-handshake.md](05-tcp-three-way-handshake.md)
 6. [06-ports-top-100.md](06-ports-top-100.md)
+7. [07-dns.md](07-dns.md)
+8. [08-http-https.md](08-http-https.md)
+9. [09-dhcp.md](09-dhcp.md)
+10. [10-arp.md](10-arp.md)
 
 ## How to use these notes
 - Read one topic at a time.
