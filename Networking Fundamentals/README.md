@@ -8,6 +8,7 @@ This folder contains exam-style notes for quick revision, interviews, and real-w
 3. [03-tcp-ip-model.md](03-tcp-ip-model.md)
 4. [04-tcp-vs-udp.md](04-tcp-vs-udp.md)
 5. [05-tcp-three-way-handshake.md](05-tcp-three-way-handshake.md)
+6. [06-ports-top-100.md](06-ports-top-100.md)
 
 ## How to use these notes
 - Read one topic at a time.
