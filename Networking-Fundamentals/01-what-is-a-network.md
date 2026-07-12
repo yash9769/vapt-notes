@@ -1,6 +1,6 @@
 # Phase 1 — Networking Fundamentals
 
-!(what is a network)(..Downloads/network.png)
+!(what is a network)(..assets/networking/what-is-a-network.png)
 
 # Concept 1: What is a Network?
 
