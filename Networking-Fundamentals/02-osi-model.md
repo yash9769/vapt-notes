@@ -1,5 +1,7 @@
 # Phase 1 — Networking Fundamentals
 
+![OSI Model](../assets/networking/02-what-is-osi.png)
+
 # Concept 2: OSI Model (Open Systems Interconnection)
 
 ## Definition
