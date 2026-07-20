@@ -1,5 +1,7 @@
 # Phase 1 — Networking Fundamentals
 
+![03_tcp_vs_udp](../assets/networking/03_tcp_vs_udp.png)
+
 # Concept 3: TCP vs UDP
 
 ## Definition
