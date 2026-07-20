@@ -1,5 +1,7 @@
 # Phase 1 — Networking Fundamentals
 
+![04_tcp_handshake](../assets/networking/04_tcp_handshake.png)
+
 # Concept 4: TCP Three-Way Handshake
 
 ## Definition
