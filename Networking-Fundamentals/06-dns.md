@@ -1,6 +1,8 @@
 
 # Phase 1 — Networking Fundamentals
 
+![06_dns](../assets/networking/06_dns.png)
+
 # Concept 6: DNS (Domain Name System)
 
 ## Definition
